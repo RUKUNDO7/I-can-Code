@@ -1,0 +1,31 @@
+h2 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #673256;
+}
+body {
+    background-color: #7623;
+}
+#name {
+    border-color: #563245;
+    border-radius: 15pt;
+}
+#name:hover {
+    border-style: dotted;
+}
+#email {
+    border-color: #603570;
+    border-radius: 5pt;
+}
+#email:hover {
+    border-style: hidden;
+}
+#message {
+    border-radius: 5pt;
+}
+#submit {
+    border-radius: 5pt;
+}
+#submit {
+    background-color: #673256;
+}

@@ -1,0 +1,31 @@
+body {
+    background-image: radial-gradient( bisque, aquamarine);
+}
+form { 
+    position:relative;
+    right:80%;
+    left:20%;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 10px;
+    border-width: 2.5px;
+    border-left: 2px;
+    width: 300px;
+    padding: 80px;
+}
+#celsius {
+    border-radius: 15px;
+    border-color:burlywood;
+} 
+#celsius:hover {
+    background-color: bisque;
+}
+.in:hover{
+    background-color: aquamarine;
+    color:azure;
+    border-radius: 15px;
+}
+.in {
+    border-radius: 15px;
+    border-color: aqua;
+}

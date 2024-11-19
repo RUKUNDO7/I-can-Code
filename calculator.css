@@ -1,0 +1,34 @@
+body {
+    background-color: powderblue;
+}
+h2 {
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+
+}
+form {
+    border: 50px;
+    border-radius: 10pt;
+}
+#num1:hover {
+    border-color:aliceblue;
+    color:blanchedalmond;
+}
+#num1 {
+    border-radius: 5px;
+}
+#num2:hover {
+    border-color: burlywood;
+    color:cornsilk;
+}
+#num2 {
+    border-radius: 5px;
+}
+.it {
+    border-color: aqua;
+    border-radius: 25px;
+}
+.it:hover {
+    color: rosybrown;
+}
